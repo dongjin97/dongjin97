@@ -4,3 +4,5 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/> 
 
 ![dongjin97's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjin97&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsqls8337)](https://solved.ac/tjsqls8337/)
