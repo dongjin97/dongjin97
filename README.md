@@ -7,3 +7,5 @@
 ![dongjin97's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongjin97&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsqls8337)](https://solved.ac/tjsqls8337/)
+## Notion
+https://mint-neem-ef5.notion.site/2e71fa712ac745c5879a16be2494f359
