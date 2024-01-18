@@ -10,4 +10,4 @@
 ## Notion
 https://mint-neem-ef5.notion.site/2e71fa712ac745c5879a16be2494f359
 ## Contact
-email : iosdongjin97@gmail.com
+email : tjsqlqs8337@naver.com
