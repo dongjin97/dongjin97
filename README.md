@@ -11,3 +11,6 @@
 https://mint-neem-ef5.notion.site/2e71fa712ac745c5879a16be2494f359
 ## Contact
 email : tjsqlqs8337@naver.com
+## Contact
+티스토리 : https://dongjin97-ios.tistory.com (현재 사용중인 블로그)
+벨로그 : https://velog.io/@tjsqls8337/posts
